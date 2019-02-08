@@ -111,6 +111,7 @@ en:
         setting_theme: Site theme
         setting_unfollow_modal: Show confirmation dialog before unfollowing someone
         setting_use_blurhash: Show colorful gradients for hidden media
+        setting_use_pending_items: Slow mode
         severity: Severity
         type: Import type
         username: Username
